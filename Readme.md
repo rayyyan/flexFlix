@@ -13,3 +13,7 @@
 
 - Reusable Components: Some components from a starter kit that were used in previous projects were utilized in this app. By reusing these components, cozz ihad only 2 days to work on it, it saved me time.
 - Reanimated: Reanimated is only used for slick Screen animation .
+
+``
+
+# Note: I know Some Of the configs needs to be an env Variables
